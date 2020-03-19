@@ -1,0 +1,584 @@
+{
+	"status": {
+		"code": 1000,
+		"header": "",
+		"description": "สำเร็จ"
+	},
+	"cardList": [{
+		"status": {
+			"code": "1000",
+			"description": "สำเร็จ"
+		},
+		"sortSequence": 0,
+		"cardRefNo": "4907349908955984",
+		"cardMask": "490734XXXXXX0262",
+		"creditcardLogoURL": "/creditcard/Visa/logo.png",
+		"rewardsEligible": 1,
+		"productType": {
+			"code": "VAFESG",
+			"description": "SCB Visa Card"
+		},
+		"cardStatus": {
+			"code": ""
+		},
+		"referenceName": "MAR PH EASY EASY",
+		"stmtDueDate": "2020-03-10T00:00:00.000+07:00",
+		"lastPaymentDate": "2020-03-10T00:00:00.000+07:00",
+		"currentDueAmount": 914108.72,
+		"currency": "764",
+		"paymentStatus": {
+			"code": "OVERDUE",
+			"description": ""
+		},
+		"creditUsed": 1457109.44,
+		"stmtDueAmount": 1280106.92,
+		"creditLimit": 2000000.00,
+		"availableCredit": 542890.56,
+		"stmtMinDueAmount": 365898.20,
+		"supplementaryFlag": "S",
+		"creditcardStatus": "NORMAL",
+		"creditcardDescription": null,
+		"allow": ["SHOW_CREDITCARD_TENOR", "QR_PURCHASE_VISA_SOURCE", "PURCHASE_FULL_AMOUNT_SOURCE", "POINT_2_PAY", "ADD_ACCOUNT", "IS_CREDITCARD", "DISPLAY_CARD", "REWARD_REDEMPTION", "E_STATEMENT_EMAIL", "PURCHASE_INSTALLMENT_SOURCE", "CARDLESS_ATM_SOURCE", "DEEJUNG_INSTALLMENT", "E_STATEMENT_CHANNEL"],
+		"cardNetwork": "VISA",
+		"dpoHistory": "12123012EEEEEEE012345012",
+		"pointLabel": "PTS",
+		"creditCardType": "NORMAL",
+		"viewReward": 1,
+		"paymentAmount": 365998.20,
+		"tempCreditLimit": 0.0,
+		"tempCreditLimitExp": null,
+		"creditcardimageURL": "/creditcard/Visa/VAFESG.png"
+	}, {
+		"status": {
+			"code": "1000",
+			"description": "สำเร็จ"
+		},
+		"sortSequence": 1,
+		"cardRefNo": "4907349908963650",
+		"cardMask": "490734XXXXXX3456",
+		"creditcardLogoURL": "/creditcard/Visa/logo.png",
+		"rewardsEligible": 1,
+		"productType": {
+			"code": "VAFCCG",
+			"description": "SCB Visa Card"
+		},
+		"cardStatus": {
+			"code": "C"
+		},
+		"referenceName": "MAR PH EASY EASY",
+		"stmtDueDate": "2020-03-09T00:00:00.000+07:00",
+		"lastPaymentDate": "2019-05-23T00:00:00.000+07:00",
+		"currentDueAmount": 172883.28,
+		"currency": "764",
+		"paymentStatus": {
+			"code": "UNPAID",
+			"description": "UNPAID"
+		},
+		"creditUsed": 172883.28,
+		"stmtDueAmount": 172883.28,
+		"creditLimit": 270000.00,
+		"availableCredit": 97116.72,
+		"stmtMinDueAmount": 111505.08,
+		"supplementaryFlag": "",
+		"creditcardStatus": "BLOCK",
+		"creditcardDescription": "บัตรเกินกำหนดชำระ กรุณาชำระเงินตามใบแจ้งยอด เพื่อใช้งานในวันถัดไป",
+		"allow": ["ADD_ACCOUNT", "IS_CREDITCARD", "DISPLAY_CARD", "REWARD_REDEMPTION", "E_STATEMENT_EMAIL", "E_STATEMENT_CHANNEL"],
+		"cardNetwork": "VISA",
+		"dpoHistory": "012000000000000101234567",
+		"pointLabel": "PTS",
+		"creditCardType": "NORMAL",
+		"viewReward": 1,
+		"paymentAmount": 0.00,
+		"tempCreditLimit": 0.0,
+		"tempCreditLimitExp": null,
+		"creditcardimageURL": "/creditcard/Visa/VAFCCG.png"
+	}, {
+		"status": {
+			"code": "1000",
+			"description": "สำเร็จ"
+		},
+		"sortSequence": 2,
+		"cardRefNo": "4548529008617821",
+		"cardMask": "454852XXXXXX1166",
+		"creditcardLogoURL": "/creditcard/Visa/logo.png",
+		"rewardsEligible": 1,
+		"productType": {
+			"code": "VSAIFA",
+			"description": "SCB Private Banking"
+		},
+		"cardStatus": {
+			"code": ""
+		},
+		"referenceName": "AGILECC SQUAD",
+		"stmtDueDate": "2020-03-30T00:00:00.000+07:00",
+		"lastPaymentDate": "2020-03-16T00:00:00.000+07:00",
+		"currentDueAmount": 16032.15,
+		"currency": "764",
+		"paymentStatus": {
+			"code": "NA",
+			"description": "N/A"
+		},
+		"creditUsed": 81307.59,
+		"stmtDueAmount": 25686.54,
+		"creditLimit": 555000.00,
+		"availableCredit": 473692.41,
+		"stmtMinDueAmount": 2568.65,
+		"supplementaryFlag": "S",
+		"creditcardStatus": "NORMAL",
+		"creditcardDescription": null,
+		"allow": ["POINT_2_PAY", "ADD_ACCOUNT", "IS_CREDITCARD", "DISPLAY_CARD", "REWARD_REDEMPTION", "E_STATEMENT_EMAIL", "DEEJUNG_INSTALLMENT", "TEMP_CREDIT_LIMIT"],
+		"cardNetwork": "VISA",
+		"dpoHistory": "000000000000010010012340",
+		"pointLabel": "PTS",
+		"creditCardType": "NORMAL",
+		"viewReward": 1,
+		"paymentAmount": 9654.39,
+		"tempCreditLimit": 0.0,
+		"tempCreditLimitExp": null,
+		"creditcardimageURL": "/creditcard/Visa/VSAIFA.png"
+	}, {
+		"status": {
+			"code": "1000",
+			"description": "สำเร็จ"
+		},
+		"sortSequence": 3,
+		"cardRefNo": "4773769908976685",
+		"cardMask": "477376XXXXXX1085",
+		"creditcardLogoURL": "/creditcard/Visa/logo.png",
+		"rewardsEligible": 1,
+		"productType": {
+			"code": "VAFTMP",
+			"description": "SCB M LIVE"
+		},
+		"cardStatus": {
+			"code": ""
+		},
+		"referenceName": "MAR PH EASY EASY",
+		"stmtDueDate": "2020-03-11T00:00:00.000+07:00",
+		"lastPaymentDate": "2020-02-05T00:00:00.000+07:00",
+		"currentDueAmount": 0,
+		"currency": "764",
+		"paymentStatus": {
+			"code": "OVERPAID",
+			"description": "OVERPAID"
+		},
+		"creditUsed": 56652.45,
+		"stmtDueAmount": -35766.79,
+		"creditLimit": 154287.00,
+		"availableCredit": 97634.55,
+		"stmtMinDueAmount": 0.00,
+		"supplementaryFlag": "",
+		"creditcardStatus": "NORMAL",
+		"creditcardDescription": null,
+		"allow": ["SHOW_CREDITCARD_TENOR", "QR_PURCHASE_VISA_SOURCE", "PURCHASE_FULL_AMOUNT_SOURCE", "ADD_ACCOUNT", "IS_CREDITCARD", "DISPLAY_CARD", "E_STATEMENT_EMAIL", "PURCHASE_INSTALLMENT_SOURCE", "CARDLESS_ATM_SOURCE", "DEEJUNG_INSTALLMENT", "DEEJUNG_TRANSFER", "TEMP_CREDIT_LIMIT", "E_STATEMENT_CHANNEL"],
+		"cardNetwork": "VISA",
+		"dpoHistory": "000001201212345600120120",
+		"pointLabel": "M Point",
+		"creditCardType": "MCARD",
+		"viewReward": 0,
+		"paymentAmount": 0.00,
+		"tempCreditLimit": 0.0,
+		"tempCreditLimitExp": null,
+		"creditcardimageURL": "/creditcard/Visa/VAFTMP.png"
+	}, {
+		"status": {
+			"code": "1000",
+			"description": "สำเร็จ"
+		},
+		"sortSequence": 4,
+		"cardRefNo": "4907349908964084",
+		"cardMask": "490734XXXXXX0817",
+		"creditcardLogoURL": "/creditcard/Visa/logo.png",
+		"rewardsEligible": 1,
+		"productType": {
+			"code": "VAFESG",
+			"description": "SCB Visa Card"
+		},
+		"cardStatus": {
+			"code": ""
+		},
+		"referenceName": "MAR PH EASY EASY",
+		"stmtDueDate": "2020-03-16T00:00:00.000+07:00",
+		"lastPaymentDate": "2020-03-10T00:00:00.000+07:00",
+		"currentDueAmount": 0,
+		"currency": "764",
+		"paymentStatus": {
+			"code": "OVERPAID",
+			"description": "OVERPAID"
+		},
+		"creditUsed": 0,
+		"stmtDueAmount": -2099.85,
+		"creditLimit": 280000.00,
+		"availableCredit": 286012.52,
+		"stmtMinDueAmount": 0.00,
+		"supplementaryFlag": "",
+		"creditcardStatus": "NORMAL",
+		"creditcardDescription": null,
+		"allow": ["SHOW_CREDITCARD_TENOR", "QR_PURCHASE_VISA_SOURCE", "PURCHASE_FULL_AMOUNT_SOURCE", "POINT_2_PAY", "ADD_ACCOUNT", "IS_CREDITCARD", "DISPLAY_CARD", "REWARD_REDEMPTION", "E_STATEMENT_EMAIL", "PURCHASE_INSTALLMENT_SOURCE", "CARDLESS_ATM_SOURCE", "DEEJUNG_INSTALLMENT", "DEEJUNG_TRANSFER", "TEMP_CREDIT_LIMIT", "E_STATEMENT_CHANNEL"],
+		"cardNetwork": "VISA",
+		"dpoHistory": "1201201200000EEEEEEEEEE0",
+		"pointLabel": "PTS",
+		"creditCardType": "NORMAL",
+		"viewReward": 1,
+		"paymentAmount": 7986.90,
+		"tempCreditLimit": 0.0,
+		"tempCreditLimitExp": null,
+		"creditcardimageURL": "/creditcard/Visa/VAFESG.png"
+	}, {
+		"status": {
+			"code": "1000",
+			"description": "สำเร็จ"
+		},
+		"sortSequence": 5,
+		"cardRefNo": "4907341288003456",
+		"cardMask": "490734XXXXXX3650",
+		"creditcardLogoURL": "/creditcard/Visa/logo.png",
+		"rewardsEligible": 1,
+		"productType": {
+			"code": "VAFCCG",
+			"description": "SCB Visa Card"
+		},
+		"cardStatus": {
+			"code": "C"
+		},
+		"referenceName": "MAR PH EASY EASY",
+		"stmtDueDate": "2020-03-09T00:00:00.000+07:00",
+		"lastPaymentDate": "2019-05-23T00:00:00.000+07:00",
+		"currentDueAmount": 172883.28,
+		"currency": "764",
+		"paymentStatus": {
+			"code": "UNPAID",
+			"description": "UNPAID"
+		},
+		"creditUsed": 172883.28,
+		"stmtDueAmount": 172883.28,
+		"creditLimit": 270000.00,
+		"availableCredit": 97116.72,
+		"stmtMinDueAmount": 111505.08,
+		"supplementaryFlag": "",
+		"creditcardStatus": "BLOCK",
+		"creditcardDescription": "บัตรเกินกำหนดชำระ กรุณาชำระเงินตามใบแจ้งยอด เพื่อใช้งานในวันถัดไป",
+		"allow": ["ADD_ACCOUNT", "IS_CREDITCARD", "DISPLAY_CARD", "REWARD_REDEMPTION", "E_STATEMENT_EMAIL", "E_STATEMENT_CHANNEL"],
+		"cardNetwork": "VISA",
+		"dpoHistory": "012000000000000101234567",
+		"pointLabel": "PTS",
+		"creditCardType": "NORMAL",
+		"viewReward": 1,
+		"paymentAmount": 0.00,
+		"tempCreditLimit": 0.0,
+		"tempCreditLimitExp": null,
+		"creditcardimageURL": "/creditcard/Visa/VAFCCG.png"
+	}, {
+		"status": {
+			"code": "1000",
+			"description": "สำเร็จ"
+		},
+		"sortSequence": 6,
+		"cardRefNo": "4907341088007152",
+		"cardMask": "490734XXXXXX5684",
+		"creditcardLogoURL": "/creditcard/Visa/logo.png",
+		"rewardsEligible": 1,
+		"productType": {
+			"code": "VAFKPG",
+			"description": "King Power Platinum"
+		},
+		"cardStatus": {
+			"code": ""
+		},
+		"referenceName": "FASTT EASY",
+		"stmtDueDate": "2020-03-09T00:00:00.000+07:00",
+		"lastPaymentDate": "2020-02-05T00:00:00.000+07:00",
+		"currentDueAmount": 254968.61,
+		"currency": "764",
+		"paymentStatus": {
+			"code": "UNPAID",
+			"description": "UNPAID"
+		},
+		"creditUsed": 254968.61,
+		"stmtDueAmount": 254968.61,
+		"creditLimit": 500000.00,
+		"availableCredit": 245031.39,
+		"stmtMinDueAmount": 25496.86,
+		"supplementaryFlag": "",
+		"creditcardStatus": "NORMAL",
+		"creditcardDescription": null,
+		"allow": ["SHOW_CREDITCARD_TENOR", "QR_PURCHASE_VISA_SOURCE", "PURCHASE_FULL_AMOUNT_SOURCE", "POINT_2_PAY", "ADD_ACCOUNT", "IS_CREDITCARD", "DISPLAY_CARD", "REWARD_REDEMPTION", "E_STATEMENT_EMAIL", "PURCHASE_INSTALLMENT_SOURCE", "CARDLESS_ATM_SOURCE", "DEEJUNG_INSTALLMENT", "DEEJUNG_TRANSFER", "TEMP_CREDIT_LIMIT", "E_STATEMENT_CHANNEL"],
+		"cardNetwork": "VISA",
+		"dpoHistory": "EEEEEEEEEEEE010100123450",
+		"pointLabel": "PTS",
+		"creditCardType": "NORMAL",
+		"viewReward": 1,
+		"paymentAmount": 0.00,
+		"tempCreditLimit": 0.0,
+		"tempCreditLimitExp": null,
+		"creditcardimageURL": "/creditcard/Visa/VAFKPG.png"
+	}, {
+		"status": {
+			"code": "1000",
+			"description": "สำเร็จ"
+		},
+		"sortSequence": 7,
+		"cardRefNo": "4907349908965355",
+		"cardMask": "490734XXXXXX8337",
+		"creditcardLogoURL": "/creditcard/Visa/logo.png",
+		"rewardsEligible": 1,
+		"productType": {
+			"code": "VAFRSG",
+			"description": "SCB Visa Card"
+		},
+		"cardStatus": {
+			"code": ""
+		},
+		"referenceName": "MAR PH EASY EASY",
+		"stmtDueDate": "2020-02-28T00:00:00.000+07:00",
+		"lastPaymentDate": "2020-03-10T00:00:00.000+07:00",
+		"currentDueAmount": 142090.98,
+		"currency": "764",
+		"paymentStatus": {
+			"code": "OVERDUE",
+			"description": ""
+		},
+		"creditUsed": 169743.90,
+		"stmtDueAmount": 142570.98,
+		"creditLimit": 300000.00,
+		"availableCredit": 130256.10,
+		"stmtMinDueAmount": 46400.38,
+		"supplementaryFlag": "",
+		"creditcardStatus": "NORMAL",
+		"creditcardDescription": null,
+		"allow": ["SHOW_CREDITCARD_TENOR", "PURCHASE_FULL_AMOUNT_SOURCE", "POINT_2_PAY", "ADD_ACCOUNT", "IS_CREDITCARD", "DISPLAY_CARD", "REWARD_REDEMPTION", "E_STATEMENT_EMAIL", "PURCHASE_INSTALLMENT_SOURCE", "CARDLESS_ATM_SOURCE", "DEEJUNG_INSTALLMENT", "DEEJUNG_TRANSFER", "TEMP_CREDIT_LIMIT", "E_STATEMENT_CHANNEL"],
+		"cardNetwork": "VISA",
+		"dpoHistory": "121000000000000012012012",
+		"pointLabel": "PTS",
+		"creditCardType": "NORMAL",
+		"viewReward": 1,
+		"paymentAmount": 480.00,
+		"tempCreditLimit": 0.0,
+		"tempCreditLimitExp": null,
+		"creditcardimageURL": "/creditcard/Visa/VAFRSG.png"
+	}, {
+		"status": {
+			"code": "1000",
+			"description": "สำเร็จ"
+		},
+		"sortSequence": 8,
+		"cardRefNo": "4907349908965155",
+		"cardMask": "490734XXXXXX8372",
+		"creditcardLogoURL": "/creditcard/Visa/logo.png",
+		"rewardsEligible": 1,
+		"productType": {
+			"code": "VAFPVG",
+			"description": "SCB Visa Card"
+		},
+		"cardStatus": {
+			"code": ""
+		},
+		"referenceName": "MAR PH EASY EASY",
+		"stmtDueDate": "2020-03-09T00:00:00.000+07:00",
+		"lastPaymentDate": "2020-03-16T00:00:00.000+07:00",
+		"currentDueAmount": 107397.96,
+		"currency": "764",
+		"paymentStatus": {
+			"code": "OVERDUE",
+			"description": ""
+		},
+		"creditUsed": 213829.49,
+		"stmtDueAmount": 137501.08,
+		"creditLimit": 300000.00,
+		"availableCredit": 86170.51,
+		"stmtMinDueAmount": 15051.56,
+		"supplementaryFlag": "",
+		"creditcardStatus": "NORMAL",
+		"creditcardDescription": null,
+		"allow": ["SHOW_CREDITCARD_TENOR", "QR_PURCHASE_VISA_SOURCE", "PURCHASE_FULL_AMOUNT_SOURCE", "POINT_2_PAY", "ADD_ACCOUNT", "IS_CREDITCARD", "DISPLAY_CARD", "REWARD_REDEMPTION", "E_STATEMENT_EMAIL", "PURCHASE_INSTALLMENT_SOURCE", "CARDLESS_ATM_SOURCE", "DEEJUNG_INSTALLMENT", "DEEJUNG_TRANSFER", "TEMP_CREDIT_LIMIT", "E_STATEMENT_CHANNEL"],
+		"cardNetwork": "VISA",
+		"dpoHistory": "012100000000000001201201",
+		"pointLabel": "PTS",
+		"creditCardType": "NORMAL",
+		"viewReward": 1,
+		"paymentAmount": 30103.12,
+		"tempCreditLimit": 0.0,
+		"tempCreditLimitExp": null,
+		"creditcardimageURL": "/creditcard/Visa/VAFPVG.png"
+	}, {
+		"status": {
+			"code": "1000",
+			"description": "สำเร็จ"
+		},
+		"sortSequence": 9,
+		"cardRefNo": "5178259908962659",
+		"cardMask": "517825XXXXXX0381",
+		"creditcardLogoURL": "/creditcard/MasterCard/logo.png",
+		"rewardsEligible": 1,
+		"productType": {
+			"code": "MCAVTC",
+			"description": null
+		},
+		"cardStatus": {
+			"code": ""
+		},
+		"referenceName": "MAR PH FOUR MASTER",
+		"stmtDueDate": "2020-03-25T00:00:00.000+07:00",
+		"lastPaymentDate": "2019-05-23T00:00:00.000+07:00",
+		"currentDueAmount": 0,
+		"currency": "764",
+		"paymentStatus": {
+			"code": "OVERPAID",
+			"description": "OVERPAID"
+		},
+		"creditUsed": 0,
+		"stmtDueAmount": -11777.55,
+		"creditLimit": 125000.00,
+		"availableCredit": 136777.55,
+		"stmtMinDueAmount": 0.00,
+		"supplementaryFlag": "",
+		"creditcardStatus": "NORMAL",
+		"creditcardDescription": null,
+		"allow": ["ADD_ACCOUNT", "DISPLAY_CARD", "QR_PURCHASE_MC_SOURCE"],
+		"cardNetwork": null,
+		"dpoHistory": "EEEEEEEEEEEEEEE000000000",
+		"pointLabel": "PTS",
+		"creditCardType": "NORMAL",
+		"viewReward": 1,
+		"paymentAmount": 0.00,
+		"tempCreditLimit": 0.0,
+		"tempCreditLimitExp": null,
+		"creditcardimageURL": "/creditcard/MasterCard/default_mastercard.png"
+	}, {
+		"status": {
+			"code": "1000",
+			"description": "สำเร็จ"
+		},
+		"sortSequence": 10,
+		"cardRefNo": "5273929908963341",
+		"cardMask": "527392XXXXXX7644",
+		"creditcardLogoURL": "/creditcard/MasterCard/logo.png",
+		"rewardsEligible": 1,
+		"productType": {
+			"code": "MUSVCO",
+			"description": null
+		},
+		"cardStatus": {
+			"code": ""
+		},
+		"referenceName": "MAR PH FOUR MASTER",
+		"stmtDueDate": "2020-02-28T00:00:00.000+07:00",
+		"lastPaymentDate": "2018-05-15T00:00:00.000+07:00",
+		"currentDueAmount": 114377.00,
+		"currency": "764",
+		"paymentStatus": {
+			"code": "UNPAID",
+			"description": "UNPAID"
+		},
+		"creditUsed": 114377.00,
+		"stmtDueAmount": 114377.00,
+		"creditLimit": 0.00,
+		"availableCredit": 0,
+		"stmtMinDueAmount": 114377.00,
+		"supplementaryFlag": "",
+		"creditcardStatus": "NORMAL",
+		"creditcardDescription": null,
+		"allow": ["ADD_ACCOUNT", "DISPLAY_CARD"],
+		"cardNetwork": null,
+		"dpoHistory": "E012EEEEEEEEEEEE01234567",
+		"pointLabel": "PTS",
+		"creditCardType": "NORMAL",
+		"viewReward": 1,
+		"paymentAmount": 0.00,
+		"tempCreditLimit": 0.0,
+		"tempCreditLimitExp": null,
+		"creditcardimageURL": "/creditcard/MasterCard/default_mastercard.png"
+	}, {
+		"status": {
+			"code": "1000",
+			"description": "สำเร็จ"
+		},
+		"sortSequence": 11,
+		"cardRefNo": "5414969908955715",
+		"cardMask": "541496XXXXXX9736",
+		"creditcardLogoURL": "/creditcard/MasterCard/logo.png",
+		"rewardsEligible": 1,
+		"productType": {
+			"code": "MC TEV",
+			"description": "XTRA Platinum"
+		},
+		"cardStatus": {
+			"code": ""
+		},
+		"referenceName": "FASTT EASY",
+		"stmtDueDate": "2020-04-07T00:00:00.000+07:00",
+		"lastPaymentDate": "2020-02-05T00:00:00.000+07:00",
+		"currentDueAmount": 279795.29,
+		"currency": "764",
+		"paymentStatus": {
+			"code": "UNPAID",
+			"description": "UNPAID"
+		},
+		"creditUsed": 279795.29,
+		"stmtDueAmount": 279795.29,
+		"creditLimit": 370000.00,
+		"availableCredit": 90204.71,
+		"stmtMinDueAmount": 76986.01,
+		"supplementaryFlag": "",
+		"creditcardStatus": "NORMAL",
+		"creditcardDescription": null,
+		"allow": ["SHOW_CREDITCARD_TENOR", "PURCHASE_FULL_AMOUNT_SOURCE", "POINT_2_PAY", "ADD_ACCOUNT", "IS_CREDITCARD", "DISPLAY_CARD", "QR_PURCHASE_MC_SOURCE", "REWARD_REDEMPTION", "E_STATEMENT_EMAIL", "PURCHASE_INSTALLMENT_SOURCE", "CARDLESS_ATM_SOURCE", "DEEJUNG_INSTALLMENT", "DEEJUNG_TRANSFER", "TEMP_CREDIT_LIMIT", "E_STATEMENT_CHANNEL"],
+		"cardNetwork": "MC",
+		"dpoHistory": "201201212123450012345623",
+		"pointLabel": "PTS",
+		"creditCardType": "NORMAL",
+		"viewReward": 1,
+		"paymentAmount": 0.00,
+		"tempCreditLimit": 0.0,
+		"tempCreditLimitExp": null,
+		"creditcardimageURL": "/creditcard/MasterCard/MC_TEV.png"
+	}, {
+		"status": {
+			"code": "1000",
+			"description": "สำเร็จ"
+		},
+		"sortSequence": 12,
+		"cardRefNo": "7777779908963504",
+		"cardMask": "777777XXXXXX3596",
+		"creditcardLogoURL": "/creditcard/Speedy/logo.png",
+		"rewardsEligible": 0,
+		"productType": {
+			"code": "SCBSPD",
+			"description": "Speedy cash"
+		},
+		"cardStatus": {
+			"code": ""
+		},
+		"referenceName": "FASTT SPD EASY",
+		"stmtDueDate": "2020-03-23T00:00:00.000+07:00",
+		"lastPaymentDate": "2020-03-10T00:00:00.000+07:00",
+		"currentDueAmount": 3302.01,
+		"currency": "764",
+		"paymentStatus": {
+			"code": "NA",
+			"description": "N/A"
+		},
+		"creditUsed": 136738.88,
+		"stmtDueAmount": 110067.08,
+		"creditLimit": 250000.00,
+		"availableCredit": 113261.12,
+		"stmtMinDueAmount": 3302.01,
+		"supplementaryFlag": "",
+		"creditcardStatus": "NORMAL",
+		"creditcardDescription": null,
+		"allow": ["IS_SPEEDYCASH", "ADD_ACCOUNT", "SHOW_SPEEDYCASH_TENOR", "DISPLAY_CARD", "E_STATEMENT_EMAIL", "PURCHASE_INSTALLMENT_SOURCE", "CARDLESS_ATM_SOURCE", "DEEJUNG_TRANSFER", "E_STATEMENT_CHANNEL"],
+		"cardNetwork": null,
+		"dpoHistory": "201200120001230001234560",
+		"pointLabel": "PTS",
+		"creditCardType": "NORMAL",
+		"viewReward": 1,
+		"paymentAmount": 106765.07,
+		"tempCreditLimit": 0.0,
+		"tempCreditLimitExp": null,
+		"creditcardimageURL": "/creditcard/Speedy/SCBSPD.png"
+	}],
+	"adsList": [],
+	"totalCreditUsed": 3110289.21,
+	"isTotalFromAllAccounts": "1",
+	"defaultCardRefNo": null
+}

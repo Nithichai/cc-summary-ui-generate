@@ -1,5 +1,13 @@
 import os
 import json
+import re
+
+def reformat_card_mask(card_mask):
+  cc_mask_list = re.findall('....', card_mask)
+  cc_mask_reformat = ""
+  for card_text in cc_mask_list:
+    cc_mask_reformat = cc_mask_reformat + card_text.lower() + " "
+  return cc_mask_reformat.strip()
 
 # get list of file from cc-summary
 fileList = os.listdir("cc-summary")
@@ -25,7 +33,7 @@ for fileName in fileList:
     # Save data from json
     ui_test_json["creditCard%d" % index] = {
       "cardName": card["productType"]["description"],
-      "cardMaskFormat": card["cardRefNo"]
+      "cardMaskFormat": reformat_card_mask(card["cardMask"])
     }
     index = index + 1
 

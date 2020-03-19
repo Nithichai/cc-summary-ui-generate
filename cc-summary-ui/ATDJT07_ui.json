@@ -1,0 +1,54 @@
+{
+    "creditCard1": {
+        "cardName": "SCB Visa Card",
+        "cardMaskFormat": "4907 34xx xxxx 0262"
+    },
+    "creditCard2": {
+        "cardName": "SCB Visa Card",
+        "cardMaskFormat": "4907 34xx xxxx 3456"
+    },
+    "creditCard3": {
+        "cardName": "SCB Private Banking",
+        "cardMaskFormat": "4548 52xx xxxx 1166"
+    },
+    "creditCard4": {
+        "cardName": "SCB M\u00a0LIVE",
+        "cardMaskFormat": "4773 76xx xxxx 1085"
+    },
+    "creditCard5": {
+        "cardName": "SCB Visa Card",
+        "cardMaskFormat": "4907 34xx xxxx 0817"
+    },
+    "creditCard6": {
+        "cardName": "SCB Visa Card",
+        "cardMaskFormat": "4907 34xx xxxx 3650"
+    },
+    "creditCard7": {
+        "cardName": "King Power Platinum",
+        "cardMaskFormat": "4907 34xx xxxx 5684"
+    },
+    "creditCard8": {
+        "cardName": "SCB Visa Card",
+        "cardMaskFormat": "4907 34xx xxxx 8337"
+    },
+    "creditCard9": {
+        "cardName": "SCB Visa Card",
+        "cardMaskFormat": "4907 34xx xxxx 8372"
+    },
+    "creditCard10": {
+        "cardName": null,
+        "cardMaskFormat": "5178 25xx xxxx 0381"
+    },
+    "creditCard11": {
+        "cardName": null,
+        "cardMaskFormat": "5273 92xx xxxx 7644"
+    },
+    "creditCard12": {
+        "cardName": "XTRA Platinum",
+        "cardMaskFormat": "5414 96xx xxxx 9736"
+    },
+    "creditCard13": {
+        "cardName": "Speedy cash",
+        "cardMaskFormat": "7777 77xx xxxx 3596"
+    }
+}
