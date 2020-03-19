@@ -1,0 +1,26 @@
+{
+    "creditCard1": {
+        "cardName": "SCB Private Banking",
+        "cardMaskFormat": "4548529908988476"
+    },
+    "creditCard2": {
+        "cardName": "SCB Private Banking",
+        "cardMaskFormat": "4548529908955761"
+    },
+    "creditCard3": {
+        "cardName": "SCB M LIVE",
+        "cardMaskFormat": "4773769908976672"
+    },
+    "creditCard4": {
+        "cardName": "SCB Visa Card",
+        "cardMaskFormat": "4907339908955979"
+    },
+    "creditCard5": {
+        "cardName": "SCB Visa Card",
+        "cardMaskFormat": "4907349908955990"
+    },
+    "creditCard6": {
+        "cardName": "SCB MasterCard",
+        "cardMaskFormat": "5414969908962447"
+    }
+}

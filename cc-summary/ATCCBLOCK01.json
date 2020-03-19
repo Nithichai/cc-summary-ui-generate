@@ -1,0 +1,188 @@
+{
+	"status": {
+		"code": 1000,
+		"header": "",
+		"description": "Success"
+	},
+	"cardList": [{
+		"status": {
+			"code": "1000",
+			"description": "Success"
+		},
+		"sortSequence": 0,
+		"cardRefNo": "4907339909001060",
+		"cardMask": "490733XXXXXX7409",
+		"creditcardLogoURL": "/creditcard/Visa/logo.png",
+		"rewardsEligible": 1,
+		"productType": {
+			"code": "VAFTYR",
+			"description": "Toyota Card Platinum"
+		},
+		"cardStatus": {
+			"code": ""
+		},
+		"referenceName": "CC AOTUMATE",
+		"stmtDueDate": "2020-03-25T00:00:00.000+07:00",
+		"lastPaymentDate": null,
+		"currentDueAmount": 0,
+		"currency": "764",
+		"paymentStatus": {
+			"code": "NA",
+			"description": "N/A"
+		},
+		"creditUsed": 1021.00,
+		"stmtDueAmount": 0.00,
+		"creditLimit": 1000000.00,
+		"availableCredit": 998979.00,
+		"stmtMinDueAmount": 0.00,
+		"supplementaryFlag": "",
+		"creditcardStatus": "NORMAL",
+		"creditcardDescription": null,
+		"allow": ["SHOW_CREDITCARD_TENOR", "QR_PURCHASE_VISA_SOURCE", "PURCHASE_FULL_AMOUNT_SOURCE", "POINT_2_PAY", "ADD_ACCOUNT", "IS_CREDITCARD", "DISPLAY_CARD", "REWARD_REDEMPTION", "E_STATEMENT_EMAIL", "PURCHASE_INSTALLMENT_SOURCE", "CARDLESS_ATM_SOURCE", "DEEJUNG_INSTALLMENT", "DEEJUNG_TRANSFER", "TEMP_CREDIT_LIMIT", "E_STATEMENT_CHANNEL"],
+		"cardNetwork": "VISA",
+		"dpoHistory": "0000000000000000000000EE",
+		"pointLabel": "PTS",
+		"creditCardType": "NORMAL",
+		"viewReward": 1,
+		"paymentAmount": 0.00,
+		"tempCreditLimit": 0.0,
+		"tempCreditLimitExp": null,
+		"creditcardimageURL": "/creditcard/Visa/VAFTYR.png"
+	}, {
+		"status": {
+			"code": "1000",
+			"description": "Success"
+		},
+		"sortSequence": 1,
+		"cardRefNo": "4907349909001056",
+		"cardMask": "490734XXXXXX6210",
+		"creditcardLogoURL": "/creditcard/Visa/logo.png",
+		"rewardsEligible": 1,
+		"productType": {
+			"code": "VAFCCG",
+			"description": "SCB Visa Card"
+		},
+		"cardStatus": {
+			"code": ""
+		},
+		"referenceName": "CC AUTOMATE",
+		"stmtDueDate": "2020-03-25T00:00:00.000+07:00",
+		"lastPaymentDate": null,
+		"currentDueAmount": 0,
+		"currency": "764",
+		"paymentStatus": {
+			"code": "NA",
+			"description": "N/A"
+		},
+		"creditUsed": 0.00,
+		"stmtDueAmount": 0.00,
+		"creditLimit": 500000.00,
+		"availableCredit": 500000.00,
+		"stmtMinDueAmount": 0.00,
+		"supplementaryFlag": "",
+		"creditcardStatus": "NORMAL",
+		"creditcardDescription": null,
+		"allow": ["SHOW_CREDITCARD_TENOR", "QR_PURCHASE_VISA_SOURCE", "PURCHASE_FULL_AMOUNT_SOURCE", "POINT_2_PAY", "ADD_ACCOUNT", "IS_CREDITCARD", "DISPLAY_CARD", "REWARD_REDEMPTION", "E_STATEMENT_EMAIL", "PURCHASE_INSTALLMENT_SOURCE", "CARDLESS_ATM_SOURCE", "DEEJUNG_INSTALLMENT", "DEEJUNG_TRANSFER", "TEMP_CREDIT_LIMIT", "E_STATEMENT_CHANNEL"],
+		"cardNetwork": "VISA",
+		"dpoHistory": "0000000000000000000000EE",
+		"pointLabel": "PTS",
+		"creditCardType": "NORMAL",
+		"viewReward": 1,
+		"paymentAmount": 0.00,
+		"tempCreditLimit": 0.0,
+		"tempCreditLimitExp": null,
+		"creditcardimageURL": "/creditcard/Visa/VAFCCG.png"
+	}, {
+		"status": {
+			"code": "1000",
+			"description": "Success"
+		},
+		"sortSequence": 2,
+		"cardRefNo": "5414969908975069",
+		"cardMask": "541496XXXXXX1224",
+		"creditcardLogoURL": "/creditcard/MasterCard/logo.png",
+		"rewardsEligible": 1,
+		"productType": {
+			"code": "MCAPMR",
+			"description": "SCB MasterCard"
+		},
+		"cardStatus": {
+			"code": ""
+		},
+		"referenceName": "MAR PH EASY EASYER",
+		"stmtDueDate": "2020-03-09T00:00:00.000+07:00",
+		"lastPaymentDate": "2018-05-31T00:00:00.000+07:00",
+		"currentDueAmount": 0,
+		"currency": "764",
+		"paymentStatus": {
+			"code": "NA",
+			"description": "N/A"
+		},
+		"creditUsed": 0.00,
+		"stmtDueAmount": 0.00,
+		"creditLimit": 500000.00,
+		"availableCredit": 500000.00,
+		"stmtMinDueAmount": 0.00,
+		"supplementaryFlag": "",
+		"creditcardStatus": "NORMAL",
+		"creditcardDescription": null,
+		"allow": ["SHOW_CREDITCARD_TENOR", "PURCHASE_FULL_AMOUNT_SOURCE", "POINT_2_PAY", "ADD_ACCOUNT", "IS_CREDITCARD", "DISPLAY_CARD", "QR_PURCHASE_MC_SOURCE", "REWARD_REDEMPTION", "E_STATEMENT_EMAIL", "PURCHASE_INSTALLMENT_SOURCE", "CARDLESS_ATM_SOURCE", "DEEJUNG_INSTALLMENT", "DEEJUNG_TRANSFER", "TEMP_CREDIT_LIMIT", "E_STATEMENT_CHANNEL"],
+		"cardNetwork": "MC",
+		"dpoHistory": "00000EEEEEEEEEEEEEEEEEEE",
+		"pointLabel": "PTS",
+		"creditCardType": "NORMAL",
+		"viewReward": 1,
+		"paymentAmount": 0.00,
+		"tempCreditLimit": 0.0,
+		"tempCreditLimitExp": null,
+		"creditcardimageURL": "/creditcard/MasterCard/MCAPMR.png"
+	}, {
+		"status": {
+			"code": "1000",
+			"description": "Success"
+		},
+		"sortSequence": 3,
+		"cardRefNo": "5414969909001059",
+		"cardMask": "541496XXXXXX9620",
+		"creditcardLogoURL": "/creditcard/MasterCard/logo.png",
+		"rewardsEligible": 1,
+		"productType": {
+			"code": "MCAGFG",
+			"description": "Golf Card"
+		},
+		"cardStatus": {
+			"code": ""
+		},
+		"referenceName": "CC AUTOMATE",
+		"stmtDueDate": "2020-03-25T00:00:00.000+07:00",
+		"lastPaymentDate": null,
+		"currentDueAmount": 0,
+		"currency": "764",
+		"paymentStatus": {
+			"code": "NA",
+			"description": "N/A"
+		},
+		"creditUsed": 0.00,
+		"stmtDueAmount": 0.00,
+		"creditLimit": 3000000.00,
+		"availableCredit": 3000000.00,
+		"stmtMinDueAmount": 0.00,
+		"supplementaryFlag": "",
+		"creditcardStatus": "NORMAL",
+		"creditcardDescription": null,
+		"allow": ["SHOW_CREDITCARD_TENOR", "PURCHASE_FULL_AMOUNT_SOURCE", "POINT_2_PAY", "ADD_ACCOUNT", "IS_CREDITCARD", "DISPLAY_CARD", "QR_PURCHASE_MC_SOURCE", "REWARD_REDEMPTION", "E_STATEMENT_EMAIL", "PURCHASE_INSTALLMENT_SOURCE", "CARDLESS_ATM_SOURCE", "DEEJUNG_INSTALLMENT", "DEEJUNG_TRANSFER", "TEMP_CREDIT_LIMIT", "E_STATEMENT_CHANNEL"],
+		"cardNetwork": "MC",
+		"dpoHistory": "0000000000000000000000EE",
+		"pointLabel": "PTS",
+		"creditCardType": "NORMAL",
+		"viewReward": 1,
+		"paymentAmount": 0.00,
+		"tempCreditLimit": 0.0,
+		"tempCreditLimitExp": null,
+		"creditcardimageURL": "/creditcard/MasterCard/MCAGFG.png"
+	}],
+	"adsList": [],
+	"totalCreditUsed": 1021.00,
+	"isTotalFromAllAccounts": "1",
+	"defaultCardRefNo": null
+}
